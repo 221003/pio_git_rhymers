@@ -39,3 +39,5 @@ public class DefaultCountingOutRhymer {
     }
 
 }
+
+//dodałem komentarz
